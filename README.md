@@ -1,4 +1,4 @@
-[![Ahmed-Elkollaly](https://circleci.com/gh/Ahmed-Elkollaly/ml_microservice.svg?style=svg)]
+![Ahmed-Elkollaly](https://circleci.com/gh/Ahmed-Elkollaly/ml_microservice.svg?style=svg)
 
 ## Project Overview
 
